@@ -9,9 +9,9 @@ Python xmpppy library -> http://xmpppy.sourceforge.net/
 ## Example Usage
 
 ```
-python xmpp_notify.py --help
+python xmpp_cli.py --help
 
-usage: xmpp_notify.py [-h] [-d HOST] [-u USER] [-pw PASSWORD]
+usage: xmpp_cli.py [-h] [-d HOST] [-u USER] [-pw PASSWORD]
                       [-t [TO [TO ...]]] [-g GROUP] [-p PORT] [-m MESSAGE]
                       [-de]
 
